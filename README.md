@@ -37,10 +37,24 @@ Dependencies
 R ≥ v4.3.0 (recommended v4.4.0)
 R Packages (versions locked for reproducibility):
 
-Seurat (v4.4.0), dplyr (v1.2.0), patchwork (v1.1.2), BiocManager (v1.30.20),  
-cowplot (v1.1.1), ggplot2 (v3.5.2), stringr (v1.7.0), paletteer (v1.6.0),  
-MySeuratWrappers (v0.1.2), SCpubr (v0.2.6), viridis (v0.6.3),  
-ComplexHeatmap (v2.16.2), limma (v3.54.1), ggrepel (v0.9.3)  
+Seurat (v4.4.0),
+dplyr (v1.2.0),
+patchwork (v1.1.2),
+BiocManager (v1.30.20),
+cowplot (v1.1.1),
+ggplot2 (v3.5.2),
+stringr (v1.7.0),
+paletteer (v1.6.0),
+MySeuratWrappers (v0.1.2),
+SCpubr (v0.2.6),
+viridis (v0.6.3),
+ComplexHeatmap (v2.16.2),
+limma (v3.54.1),
+ggrepel (v0.9.3),
+clusterProfiler (v3.16.1),
+UCell (v1.1.0),
+Cell-ID (v1.21),
+Harmony (v1.0)
 
 # Installation Guide
 
